@@ -1,0 +1,1 @@
+/nix/store/3d9zjv5vaqjxb9kwbdqsd194alwm97x1-gcc-wrapper-11.3.0/bin/gcc -fPIC -O2 -g -DNDEBUG -shared  -o vterm-module.so "CMakeFiles/vterm-module.dir/vterm-module.c.o" "CMakeFiles/vterm-module.dir/utf8.c.o" "CMakeFiles/vterm-module.dir/elisp.c.o"  /nix/store/w88bll3ac4lm35f4jwhg02p8qxs2fvl8-libvterm-neovim-0.1.3/lib/libvterm.so 

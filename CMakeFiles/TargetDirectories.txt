@@ -1,0 +1,4 @@
+/home/k/code/k2052/emacs-libvterm/CMakeFiles/vterm-module.dir
+/home/k/code/k2052/emacs-libvterm/CMakeFiles/run.dir
+/home/k/code/k2052/emacs-libvterm/CMakeFiles/edit_cache.dir
+/home/k/code/k2052/emacs-libvterm/CMakeFiles/rebuild_cache.dir

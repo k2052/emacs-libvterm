@@ -1,0 +1,23 @@
+CMakeFiles/vterm-module.dir/utf8.c.o: \
+ /home/k/code/k2052/emacs-libvterm/utf8.c \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/stdc-predef.h \
+ /home/k/code/k2052/emacs-libvterm/utf8.h \
+ /nix/store/jdc41bl531bw84wi82y6gvij34q5m24a-gcc-11.3.0/lib/gcc/x86_64-unknown-linux-gnu/11.3.0/include/stdbool.h \
+ /nix/store/jdc41bl531bw84wi82y6gvij34q5m24a-gcc-11.3.0/lib/gcc/x86_64-unknown-linux-gnu/11.3.0/include/stddef.h \
+ /nix/store/jdc41bl531bw84wi82y6gvij34q5m24a-gcc-11.3.0/lib/gcc/x86_64-unknown-linux-gnu/11.3.0/include/stdint.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/stdint.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/libc-header-start.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/features.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/features-time64.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/wordsize.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/timesize.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/sys/cdefs.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/long-double.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/gnu/stubs.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/gnu/stubs-64.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/types.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/typesizes.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/time64.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/wchar.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/stdint-intn.h \
+ /nix/store/1x86jfiwsp5qi448fcdkkzn7vmx4krv2-glibc-2.35-163-dev/include/bits/stdint-uintn.h
